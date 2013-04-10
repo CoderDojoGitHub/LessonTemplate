@@ -5,6 +5,7 @@ A template for GitHub CoderDojo programming tutorial
 ## Lession Name
 
 ### What we will be building
+------------------------------------------
 
 **Brief Overview**
 
@@ -20,6 +21,7 @@ A template for GitHub CoderDojo programming tutorial
 - This will allow advanced learners to play with the code while others catch up
 
 ### Prerequisites
+------------------------------------------
 
 **Tools**
 
@@ -49,16 +51,20 @@ A template for GitHub CoderDojo programming tutorial
      - Use analogies to explain the concept
 
 ### Tutorial
+------------------------------------------
 
 **Code**
 
 **Explanation**
 
 ### Customization
+------------------------------------------
 
 
 ### Additional Resources
+------------------------------------------
 
 
 ### Homework
+------------------------------------------
 
