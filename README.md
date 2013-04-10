@@ -23,7 +23,30 @@ A template for GitHub CoderDojo programming tutorial
 
 **Tools**
 
+- Make sure they have a common web browser and code editor present
+- You would then list the tools that will be used during the lesson
+  - If an additional software is required, point them to the download link
+     - Ensure that the software is available on Mac and Windows
+     - Stick with freely available software
+     - If possible, link to the direct download URL
+     - For a long link, try using a URL shortener
+  - If a webservice is required for the lession, point them to the webpage
+     - Ensure that no registration is required to use the service
+     - Check the service's browser compatibility
+
 **Experience**
+
+- After development setup, be sure to check if the lesson requires having prior knowledge
+  - Check for experience with a certain technology
+     - If using a javascript plugin, for example:
+         - Check if it has been used before.
+         - Check if students can recall previously taught syntax and concepts
+     - If using a programming language, for example:
+         - Check if it has been taught before
+         - Check if students can recall the syntax
+  - If using mathematial concepts in the lession:
+     - Check if the students are familiar with the concept
+     - Use analogies to explain the concept
 
 ### Tutorial
 
