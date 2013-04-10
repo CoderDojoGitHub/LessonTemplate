@@ -6,12 +6,28 @@ A template for GitHub CoderDojo programming tutorial
 
 ### What we will be building
 
+**Brief Overview**
+
+**Demo**
+
+
 ### Prerequisites
+
+**Tools**
+
+**Experience**
 
 ### Tutorial
 
+**Code**
+
+**Explanation**
+
 ### Customization
+
 
 ### Additional Resources
 
+
 ### Homework
+
