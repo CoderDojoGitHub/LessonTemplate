@@ -50,12 +50,23 @@ A template for GitHub CoderDojo programming tutorial
      - Check if the students are familiar with the concept
      - Use analogies to explain the concept
 
-### Tutorial
+### Implementation
 ------------------------------------------
 
 **Code**
 
+- Arrange code blocks as functions and useful chunks
+- Try to implement indicative variable names ( *topic* instead of i)
+- Use GitHub's extended markdown for syntax highlighting
+- When possible, add screenshots of the stages of development to the documentation
+
 **Explanation**
+
+- After every code block, try to explain what the aforementioned code does
+  - This can mostly be conveyed in point form
+  - This section can be used for pointing out how different pieces (services, functions, etc) talk to each other
+  - Explanation can range from sharing a new concept to simply interpreting the code in english
+
 
 ### Customization
 ------------------------------------------
