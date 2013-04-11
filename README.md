@@ -1,6 +1,8 @@
 # Lesson Plan Template
 
-A template for GitHub CoderDojo programming tutorial
+A template for GitHub CoderDojo programming tutorial. This document can be treated as a quick reference for 
+preparing CoderDojo sessions and is in no way an absolute guideline for preparing a lesson.
+
 
 ## Lession Name
 
@@ -71,11 +73,26 @@ A template for GitHub CoderDojo programming tutorial
 ### Customization
 ------------------------------------------
 
+After the implementation lesson is finished, you can transition into pointing out any additional customizations
+that can be performed to what was just built. This could include changing values in the code to see different outcomes,
+changing colors of items or even adding additional functionality.
+
+- This sectional can be treated as self driven by students or mentor directed
+- You can display a list of possible customizations that can be performed (changing colors, enabling/disabling features, etc)
+- This part can also be promoted by displaying demos or screenshots where students can try to replicate what was shown
+
 
 ### Additional Resources
 ------------------------------------------
 
+You can also point out links to any additional resources (cool demos, extensions, documentation, etc) that may be
+related to the technology/programming language used for the class. This is optional.
+
 
 ### Homework
 ------------------------------------------
+
+Additionaly, you can also assign homework (not required) where students can combine work from the customization
+section and any other critera you may wish to provide. For example, an exercise can include converting a JSFiddle page to
+a HTML, CSS, JS page
 
