@@ -11,7 +11,7 @@ preparing CoderDojo sessions and is in no way an absolute guideline for preparin
 
 **Brief Overview**
 
-- As the very first step, you would generally start with showing everyone what we will be building by the end of the session
+- As the very first step, you would generally start by telling everyone what we will be building by the end of the session
 - This would then be followed by talking about the technology or programming language that is going to be utilized
 - You would then transition to the final product demo, followed by the steps to getting started
 
