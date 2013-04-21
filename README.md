@@ -3,7 +3,7 @@
 A template for GitHub CoderDojo programming tutorial. This document can be treated as a quick reference for 
 preparing CoderDojo sessions.
 
-For a sample lession that follows this schema, see LESSON.md
+For a sample lesson that follows this schema, see LESSON.md
 
 
 ### What we will be building
