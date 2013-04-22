@@ -1,9 +1,8 @@
 # Lesson Plan Template
 
-A template for GitHub CoderDojo programming tutorial. This document can be treated as a quick reference for 
-preparing CoderDojo sessions.
+This document can be treated as a quick reference for preparing CoderDojo sessions.
 
-For a sample lesson that follows this schema, see LESSON.md
+For a sample lesson that follows this schema, see [LESSON.md](LESSON.md)
 
 
 ### What we will be building
@@ -65,26 +64,23 @@ For a sample lesson that follows this schema, see LESSON.md
 ### Customization
 ------------------------------------------
 
-After the implementation lesson is finished, you can transition into pointing out any additional customizations
-that can be performed to what was built. This could include changing values in the code to see different outcomes,
-changing colors of items or even adding additional functionality.
+Point out any additional customizations that can be performed to what was built. This could include changing values in the code to see different outcomes,
+changing colors of items or adding additional functionality.
 
-- This sectional can be treated as self driven by students or mentor directed
-- Display a list of possible customizations that can be performed (changing colors, enabling/disabling features, etc)
-- This can also be promoted by displaying customized demos or screenshots where students can try to replicate what is shown
+- This can be treated as self driven or mentor directed
+- List some possible customizations that can be performed (changing colors, enabling/disabling features, etc)
+- This can be promoted by displaying customized demos where students try to replicate what is shown
 
 
 ### Additional Resources
 ------------------------------------------
 
-You can also point out links to any additional resources (cool demos, extensions, documentation, etc) that may be
-related to the technology/programming language used for the class. This is optional.
+Additional resources (cool demos, extensions, documentation, etc) can also be shown to students. This is optional.
 
 
 ### Homework
 ------------------------------------------
 
-Additionaly, you can also assign homework (also optional) where students can combine work from the customization
-section and any other critera you may wish to provide. For example, an exercise can include converting a JSFiddle page to
-a HTML, CSS, JS page
+Additionaly, some homework can be assigned after the lession (also optional) where students can combine work from the customization
+section or other criteria. An exercise, for example, can include converting a JSFiddle page to a HTML, CSS, JS page
 
