@@ -1,9 +1,10 @@
-# Lesson Plan Template
+# Lesson Plan Overview
 
 This document can be treated as a quick reference for preparing CoderDojo sessions.
 
 For a sample lesson that follows this schema, see [LESSON.md](LESSON.md)
 
+For the lesson template, see [ETHOS.md](ETHOS.md)
 
 ### What we will be building
 ------------------------------------------
