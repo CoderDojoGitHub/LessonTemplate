@@ -18,9 +18,12 @@
 
 **Explanations**
 
-**Customizations**
-
 **Demos**
+
+
+## Customizations
+
+**Samples**
 
 ## Additional Resources
 
