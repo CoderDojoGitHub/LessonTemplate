@@ -1,7 +1,4 @@
-
-# Animations in JavaScript
-
-##  D3.js
+# Animations in JavaScript - D3.js
 
 Library that uses HTML, CSS and SVG to bring data to life.
 
@@ -24,6 +21,15 @@ http://d3js.org/d3.v2.js
 ![](http://i.imgur.com/CPA7h4n.png)
 
 
+## Prerequisites
+
+- Basic HTML knowledge
+  - What a div tag is
+- Basic CSS knowledge
+  - Assigning colors to div tags
+- Basic JS knowledge
+  - Creating functions and mathematical operations
+
 ## Getting Started
 
 
@@ -45,7 +51,7 @@ Add this in the **CSS** box
 
 Here we are setting the background color of the frame container to be **gray**
 
-## Setting Up
+## Initial Setup
 
 Add this in **JavaScript** box
 
